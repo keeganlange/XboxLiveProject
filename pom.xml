@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>TEST</groupId>
-  <artifactId>PerficientGDCSeleniumFrameworkMaven</artifactId>
+  <artifactId>XboxProject2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
-  <name>PerficientGDCSeleniumFrameworkMaven</name>
+  <name>XboxProject2</name>
   <url>http://maven.apache.org</url>
   
   <properties>
